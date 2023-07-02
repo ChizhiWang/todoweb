@@ -136,4 +136,3 @@ webencodings==0.5.1
 xdg==5
 xlrd==1.2.0
 XlsxWriter==3.0.2
-zipp==1.0.0

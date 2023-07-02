@@ -86,7 +86,6 @@ pycups==2.0.1
 pydeck==0.8.1b0
 pyenchant==3.2.0
 Pygments==2.15.1
-PyGObject==3.42.1
 PyJWT==2.3.0
 pymacaroons==0.13.0
 Pympler==1.0.1

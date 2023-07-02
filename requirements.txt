@@ -68,7 +68,6 @@ nvidia-nccl-cu11==2.14.3
 nvidia-nvtx-cu11==11.7.91
 oauthlib==3.2.0
 olefile==0.46
-onboard==1.4.1
 packaging==23.1
 padme==1.1.1
 pandas==2.0.3

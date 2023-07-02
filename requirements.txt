@@ -128,13 +128,6 @@ triton==2.0.0
 typing_extensions==4.6.3
 tzdata==2023.3
 tzlocal==4.3.1
-unity-lens-photos==1.0
-unity-scope-calculator==0.1
-unity-scope-devhelp==0.1
-unity-scope-manpages==0.1
-unity-scope-tomboy==0.1
-unity-scope-virtualbox==0.1
-unity-scope-zotero==0.1
 urllib3==1.26.5
 usb-creator==0.3.7
 validators==0.20.0

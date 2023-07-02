@@ -19,7 +19,6 @@ defer==1.0.4
 distro==1.7.0
 distro-info===1.0
 docutils==0.17.1
-duplicity==0.8.21.post7
 evdev==1.4.0
 fasteners==0.14.1
 feedparser==6.0.8
